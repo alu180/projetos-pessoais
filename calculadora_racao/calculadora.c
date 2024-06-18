@@ -70,11 +70,11 @@ int main(){
 
   printf("foguinho");
 
-  printf("%9.1f %16.1f %16.1f\n", racao_foguinho_diaria, racao_foguinho_semanal, racao_foguinho_mes);
+  printf("%9.1f %17.1f %14.1f\n", racao_foguinho_diaria, racao_foguinho_semanal, racao_foguinho_mes);
 
   printf("athena");
 
-  printf("%10.1f %17.1f %16.1f\n", racao_athena_diaria, racao_athena_semanal, racao_athena_mes);
+  printf("%11.1f %17.1f %14.1f\n", racao_athena_diaria, racao_athena_semanal, racao_athena_mes);
 
   printf("--------------------------------------------------------\n");
   printf("TOTAL DE RACAO                    %18.2f gramas\n", racao_total);
